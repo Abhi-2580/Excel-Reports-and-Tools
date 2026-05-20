@@ -1,8 +1,36 @@
-# Excel Data Analytics Portfolio
+# 📊 Excel Data Analytics Portfolio
+
+## 🚀 About The Project
 
 This repository contains Business Analytics Projects and Real-Time Business Applications built using Excel, Power Query, Power Pivot, and DAX.
 
-These projects focus on transforming large and unorganized datasets into meaningful business insights through data cleaning, modelling, analysis, and reporting.
+The projects are based on AtliQ Hardwares — a global hardware company specializing in PCs, printers, mice, and peripheral devices.
+
+The primary goal of these projects is to transform large and unorganized datasets into meaningful business insights that support strategic decision-making and KPI tracking.
+
+---
+
+# 💾 Problem Statement
+
+AtliQ Hardwares faced challenges in:
+
+- Optimizing sales performance
+- Improving net gross margins
+- Tracking KPIs effectively
+- Analyzing large volumes of unorganized sales and finance data
+
+These projects focus on solving those business problems through data analytics and reporting.
+
+---
+
+# 🎯 Project Goals
+
+- Analyze more than 500K+ sales records
+- Build interactive analytical reports
+- Extract business insights from raw data
+- Improve business decision-making
+- Track sales and financial KPIs
+- Support strategic planning and profitability analysis
 
 ---
 
@@ -18,14 +46,13 @@ These projects focus on transforming large and unorganized datasets into meaning
 
 ---
 
-# 📊 Projects Included
+# 📘 Project 1: Sales Analytics
 
-## 1. Sales Analytics Project
+## 📌 Objective
 
-### Objective
-To analyze sales performance and generate actionable business insights for AtliQ Hardwares.
+To analyze customer and market performance and generate actionable sales insights for AtliQ Hardwares.
 
-### Reports Created
+## 📊 Reports Created
 
 1. Customer Net Sales Performance  
 2. Market Performance vs Target  
@@ -35,117 +62,144 @@ To analyze sales performance and generate actionable business insights for AtliQ
 6. New Launch Products - 2021  
 7. Top 5 Countries by Net Sales  
 
-### Key Business Questions Solved
+---
 
-- Customer sales performance analysis
-- Market target achievement tracking
-- Product growth analysis
-- Division-wise sales growth analysis
-- Product quantity performance ranking
-- New product launch tracking
-- Country-level sales analysis
+## 🔍 Key Business Questions Solved
 
-### Skills Applied
-
-- Data Cleaning
-- ETL Process
-- Data Modelling
-- Power Query Transformations
-- DAX Calculations
-- Pivot Table Reporting
-- Business Report Design
+- How have customers performed over time?
+- Which markets achieved sales targets?
+- Which products showed the highest growth?
+- Which divisions generated the most revenue?
+- Which products performed best and worst by quantity sold?
+- What new products were launched in 2021?
+- Which countries generated the highest sales?
 
 ---
 
-## 2. Finance Analytics Project
+## 📈 Key Insights
 
-### Objective
-To create financial reports for analyzing profit and loss performance across different periods and markets.
+- Significant growth in customer net sales performance
+- India became the top-performing market in 2021
+- Strong sales growth across PC and Accessories divisions
+- New product launches performed successfully
+- Clear identification of high-performing and underperforming products
 
-### Reports Created
+---
+
+# 📗 Project 2: Finance Analytics
+
+## 📌 Objective
+
+To create financial reports for evaluating profit and loss performance across different fiscal periods and markets.
+
+## 📊 Reports Created
 
 1. P & L Statement by Fiscal Year  
 2. P & L Statement by Fiscal Months  
 3. P & L Statement by Markets  
-4. GM% by Quarters (Sub-zone)  
+4. GM% by Quarters (Sub-zone)
 
-### Skills Applied
+---
 
-- Gross Margin Analysis
-- Financial Reporting
-- Time-based Analysis
-- DAX Measures
-- Pivot Table Customization
-- Number Formatting
-- Financial KPI Tracking
+## 📈 Key Insights
+
+- Net sales showed strong year-over-year growth
+- Gross margin performance remained stable
+- Market-wise profitability trends were identified
+- Regional financial performance comparison supported strategic planning
 
 ---
 
 # 🚀 Real-Time Business Applications
 
-## 1. Project Priority Matrix
+## 📌 1. Project Priority Matrix
 
 ### Objective
-To prioritize tasks based on feasibility, impact, and size.
+
+To prioritize tasks based on:
+
+- Feasibility
+- Impact
+- Size
 
 ### Features
 
 - Bubble Chart Visualization
 - 4-Quadrant Priority Matrix
 - Task Prioritization Framework
-- Interactive and Visual Decision-Making Tool
+- Interactive Decision-Making Tool
 
 ---
 
-## 2. Scenario Planning Tool
+## 📌 2. Scenario Planning Tool
 
 ### Objective
-To simplify customer discount approval calculations using different business scenarios.
+
+To simplify customer discount approval calculations using scenario-based analysis.
 
 ### Features
 
 - Dynamic Filters
-- Scenario-Based Planning
+- Scenario Planning
 - Best Case / Realistic / Worst Case Analysis
 - Gross Margin Target Tracking
 - Automated Business Calculations
 
 ---
 
-# 📈 Business Impact
+# ⚙️ Skills Demonstrated
 
-These projects demonstrate how Excel can be used to:
+## 💻 Technical Skills
 
-- Transform raw data into business insights
-- Improve decision-making
-- Track KPIs effectively
-- Perform financial and sales analysis
-- Build real-world business solutions
+- ETL Process (Extract, Transform, Load)
+- Power Query Transformations
+- Data Modelling
+- Star Schema Design
+- DAX Calculations
+- Pivot Table Reporting
+- Financial Analysis
+- Sales Analytics
+- KPI Tracking
 
 ---
 
-# 📂 Project Files
+## 🤝 Soft Skills
 
-This repository includes:
+- Analytical Thinking
+- Business Understanding
+- Report Design
+- Problem Solving
+- Attention to Detail
+- User-Centric Reporting
 
-- Excel Files
+---
+
+# 📂 Repository Contents
+
+- Excel Project Files
 - PDF Reports
 - Business Applications
+- Analytical Reports
 - Supporting Documentation
 
 ---
 
 # 📚 Key Learnings
 
-- End-to-end analytics workflow
-- Data cleaning and transformation
-- Data modelling using Star Schema
-- Advanced Excel reporting
-- Business-focused dashboard design
-- Analytical thinking and problem solving
+Through these projects, I gained hands-on experience in:
+
+- End-to-End Data Analytics Workflow
+- Data Cleaning & Transformation
+- Business Reporting
+- Financial Analysis
+- Sales Performance Analysis
+- Building Interactive Business Solutions
+- Data-Driven Decision Making
 
 ---
 
 # 👨‍💻 About Me
 
-I built these projects as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based analytics tools.
+I developed these projects as part of my Data Analytics learning journey to strengthen my practical skills in Excel-based analytics, reporting, and business intelligence.
+
+These projects helped me understand how businesses use data to make strategic decisions and improve performance.
