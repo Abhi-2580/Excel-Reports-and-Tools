@@ -2,7 +2,6 @@
 
 A data analytics project built in Microsoft Excel to drive strategic decision-making for **AtliQ Hardwares** — a global hardware company dealing in PCs, printers, mice, and computers.
 
-\---
 
 ## 🧩 Problem Statement
 
@@ -12,10 +11,12 @@ AtliQ Hardwares needed a way to optimize sales performance and improve net gross
 
 Transform raw, unstructured data into clear, actionable insights through ETL, data modelling, and report design — enabling AtliQ to track KPIs, monitor performance, and make informed business decisions.
 
-\---
----
+<br>
 
-# 📁 Projects Included
+---
+<br>
+
+## 📁 Projects Included
 | |Type|Name|
 |-|-|-|
 |1|📈 Project|Sales Analytics|
@@ -23,11 +24,12 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 |3|🛠️ Application|Project Priority Matrix|
 |4|🔧 Application|Scenario Planning Tool|
 
-\---
+<br>
+<br>
 
-## 📈 Project 1: Sales Analytics
+### 📈 Project 1: Sales Analytics
 
-### Objective
+#### 💫 Objective
 To analyze sales performance and generate actionable business insights for AtliQ Hardwares, I had created 7 report with their respective objective.
 
    **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
@@ -63,7 +65,7 @@ Assisted in determining optimal customer discounts, facilitating consumer negoti
 ## 2. Finance Analytics Project
 ## 💰 Project 2: Finance Analytics
 
-### Objective
+### 💫 Objective
 To create financial reports for analyzing profit and loss performance across different periods and markets.
 
 To analyze year-over-year profitability performance through the P&L by Fiscal Year Report.
@@ -78,12 +80,18 @@ To evaluate gross margin percentage by region and quarter using the GM% by Quart
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+### 💫 Key Achievements:
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+Evaluated financial performance comprehensively, enabling informed decision-making and clear communication with stakeholders.
+Delivered insightful sales analytics reports that aligned financial planning with strategic goals and instilled confidence in the organization's financial outlook.
+Established a benchmarking framework against industry peers, laying a strong foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+💫 Key Achievements:
 
+Reviewed and analyzed financial performance to help the team make better decisions.
+Created clear reports that made it easy to communicate with stakeholders.
+Compared results with industry peers to set a strong base for budgeting and future planning.
+Helped align financial plans with the company's bigger goals and built trust in the financial outlook.
 
 💫Key Achievements:
  Evaluated financial performance comprehensively, facilitating informed decisionmaking. Supported effective communication with stakeholders through clear and insightful reports. Contributed to benchmarking against industry peers and established a foundation for budgeting and forecasting 
