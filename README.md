@@ -26,17 +26,17 @@ To analyze sales performance and generate actionable business insights for AtliQ
 
    **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_ Report.
 
-   **2.** To compare actual market performance with sales targets by creating a _[Market Performance vs Target](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report. 
+   **2.** To compare actual market performance with sales targets by creating a _[Market Performance vs Target](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_ Report. 
 
-   **3.** To identify the _[top 10 products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ with the highest net sales growth from 2020 to 2021. 
+   **3.** To identify the _[top 10 products](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Top%2010%20Products%20Report.pdf)_ with the highest net sales growth from 2020 to 2021. 
 
-   **4.** To evaluate net sales growth percentage across different divisions through a _[Division Level Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
+   **4.** To evaluate net sales growth percentage across different divisions through a _[Division Level Report](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Division%20Level%20Report.pdf)_.
 
-   **5.** To find the _[top and bottom 5 products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ based on quantity sold.
+   **5.** To find the _[top and bottom 5 products](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Top%20%26%20bottom%205%20products%20-%20QTY%20Report.pdf)_ based on quantity sold.
 
-   **6.** To analyze _[newly launched products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ introduced by AtliQ in 2021.
+   **6.** To analyze _[newly launched products](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/New%20Launch%20Products%20-%202021%20Report.pdf)_ introduced by AtliQ in 2021.
 
-   **7.** To identify the _[top 5 countries](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ contributing the highest net sales in 2021.
+   **7.** To identify the _[top 5 countries](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Top%205%20Countries%20Report.pdf)_ contributing the highest net sales in 2021.
 
 
 #### 💫 Key Achievements:
@@ -55,13 +55,13 @@ To analyze sales performance and generate actionable business insights for AtliQ
 #### 💫 Objective
 To analyze profit and loss performance across different periods and markets, I created 4 reports with their respective objective.
 
-   **1.** To analyze year-over-year profitability performance through the _[P&L by Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+   **1.** To analyze year-over-year profitability performance through the _[P&L by Fiscal Year](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)_ Report.
 
-   **2.** To track monthly financial performance trends using the _[P&L by Fiscal Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+   **2.** To track monthly financial performance trends using the _[P&L by Fiscal Months](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_ Report.
 
-   **3.** To compare profitability across different markets through the _[P&L by Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+   **3.** To compare profitability across different markets through the _[P&L by Markets](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_ Report.
 
-   **4.** To evaluate gross margin percentage by region and quarter using the _[GM% by Quarters (Sub-Zone)](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+   **4.** To evaluate gross margin percentage by region and quarter using the _[GM% by Quarters (Sub-Zone)](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/GM%25%20by%20Quarters%20(Sub_Zone).pdf)_ Report.
     
 
 #### 💫 Key Achievements:
@@ -79,10 +79,10 @@ To analyze profit and loss performance across different periods and markets, I c
 ## 🚀 Real-Time Business Applications
 <br>
 
-### 🛠️ Application 1: Project Priority Matrix
+### 🛠️ Application 1: _[Project Priority Matrix](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Project%20Priority%20Matrix.pdf)_
 
 #### Objective
-To prioritize tasks based on feasibility, impact, and size.
+To **prioritize** tasks based on feasibility, impact, and size.
 
 #### Features
 
@@ -94,10 +94,11 @@ To prioritize tasks based on feasibility, impact, and size.
 <br>
 
 
-### 🔧 Application 2: Scenario Planning Tool
+### 🔧 Application 2: _[Scenario Planning Tool](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Scenario%20Planning%20Tool.pdf
+)_
 
 #### Objective
-To simplify customer discount approval calculations using different business scenarios.
+To simplify customer **discount approval calculations** using different business scenarios.
 
 #### Features
 
