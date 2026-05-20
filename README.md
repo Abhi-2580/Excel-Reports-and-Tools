@@ -12,15 +12,10 @@ AtliQ Hardwares needed a way to optimize sales performance and improve net gross
 Transform raw, unstructured data into clear, actionable insights through ETL, data modelling, and report design — enabling AtliQ to track KPIs, monitor performance, and make informed business decisions.
 
 <br>
+<br>
 
 ---
-## 📁 Projects Included
-| |Type|Name|
-|-|-|-|
-|1|📈 Project|Sales Analytics|
-|2|💰 Project|Finance Analytics|
-|3|🛠️ Application|Project Priority Matrix|
-|4|🔧 Application|Scenario Planning Tool|
+## 📁 Sales and Finance Analytics
 
 <br>
 
@@ -76,10 +71,12 @@ To analyze profit and loss performance across different periods and markets, I c
 - Helped align financial plans with the company's bigger goals and built trust in the financial outlook.
 
 <br>
+<br>
 
 ---
 
 ## 🚀 Real-Time Business Applications
+<br>
 
 ### 🛠️ Application 1: Project Priority Matrix
 
@@ -112,9 +109,9 @@ To simplify customer discount approval calculations using different business sce
 
 ---
 
-# 📚 Key Learnings
+## 📚 Key Learnings
 
-## 💫Technical Skills:
+### 💫Technical Skills:
 - [x]	Proficient in ETL methodology (Extract, Transform, Load).
 - [x]	Skilled in creating date tables using Power Query. 
 - [x]	Experienced in deriving fiscal months and quarters.
@@ -124,7 +121,7 @@ To simplify customer discount approval calculations using different business sce
 - [x] Adept at creating advanced Excel reports and quick summaries using Pivot Tables.
 - [x] Learned to build real-time business applications such as Project Priority Matrix and Scenario Planning Tools to improve business processes.
 
-## 💫Soft Skills:
+### 💫Soft Skills:
 - [x]	Possess a refined understanding of Sales and Finance Reports. 
 - [x]	Capable of designing user-friendly and business-focused reports with empathy.
 - [x]	Experienced in optimizing and fine-tuning reports for better performance and efficiency.
@@ -135,6 +132,6 @@ To simplify customer discount approval calculations using different business sce
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I built these projects and applications as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based analytics tools.
