@@ -16,7 +16,7 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 ---
 
 # 📁 Projects Included
-|#|Type|Name|
+| |Type|Name|
 |-|-|-|
 |1|📈 Project|Sales Analytics|
 |2|💰 Project|Finance Analytics|
@@ -53,25 +53,24 @@ To analyze sales performance and generate actionable business insights for AtliQ
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
+ Key Achievements: Enabled businesses to monitor and evaluate their sales activities effectively. Identified critical sales patterns and tracked essential key performance indicators (KPIs). 
 
+Assisted in determining optimal customer discounts, facilitating consumer negotiations, and pinpointing promising international expansion opportunities. 
 
-### Skills Applied
-
-- Data Cleaning
-- ETL Process
-- Data Modelling
-- Power Query Transformations
-- DAX Calculations
-- Pivot Table Reporting
-- Business Report Design
 
 ---
 
 ## 2. Finance Analytics Project
+## 💰 Project 2: Finance Analytics
 
 ### Objective
 To create financial reports for analyzing profit and loss performance across different periods and markets.
-## Finance Report :
+
+To analyze year-over-year profitability performance through the P&L by Fiscal Year Report.
+To track monthly financial performance trends using the P&L by Fiscal Months Report.
+To compare profitability across different markets through the P&L by Markets Report.
+To evaluate gross margin percentage by region and quarter using the GM% by Quarters (Sub-Zone) Report.
+
 
 - **Project objective:** 
 
@@ -86,30 +85,16 @@ To create financial reports for analyzing profit and loss performance across dif
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
+💫Key Achievements:
+ Evaluated financial performance comprehensively, facilitating informed decisionmaking. Supported effective communication with stakeholders through clear and insightful reports. Contributed to benchmarking against industry peers and established a foundation for budgeting and forecasting 
 
-
-### Reports Created
-
-1. P & L Statement by Fiscal Year  
-2. P & L Statement by Fiscal Months  
-3. P & L Statement by Markets  
-4. GM% by Quarters (Sub-zone)  
-
-### Skills Applied
-
-- Gross Margin Analysis
-- Financial Reporting
-- Time-based Analysis
-- DAX Measures
-- Pivot Table Customization
-- Number Formatting
-- Financial KPI Tracking
 
 ---
 
 # 🚀 Real-Time Business Applications
 
 ## 1. Project Priority Matrix
+## 🛠️ Application 1: Project Priority Matrix
 
 ### Objective
 To prioritize tasks based on feasibility, impact, and size.
@@ -124,6 +109,7 @@ To prioritize tasks based on feasibility, impact, and size.
 ---
 
 ## 2. Scenario Planning Tool
+## 🔧 Application 2: Scenario Planning Tool
 
 ### Objective
 To simplify customer discount approval calculations using different business scenarios.
@@ -138,54 +124,45 @@ To simplify customer discount approval calculations using different business sce
 
 ---
 
-# 📈 Business Impact
-
-These projects demonstrate how Excel can be used to:
-
-- Transform raw data into business insights
-- Improve decision-making
-- Track KPIs effectively
-- Perform financial and sales analysis
-- Build real-world business solutions
 
 ---
 
-# 📂 Project Files
+\---
 
-This repository includes:
 
-- Excel Files
-- PDF Reports
-- Business Applications
-- Supporting Documentation
+\---
+
+
+\---
+
 
 ---
 
 # 📚 Key Learnings
 
-- End-to-end analytics workflow
-- Data cleaning and transformation
-- Data modelling using Star Schema
-- Advanced Excel reporting
-- Business-focused dashboard design
-- Analytical thinking and problem solving
+## 💫Technical Skills:
+- [x]	Proficient in ETL methodology (Extract, Transform, Load).
+- [x]	Skilled in creating date tables using Power Query. 
+- [x]	Experienced in deriving fiscal months and quarters.
+- [x]	Proficient in Data modelling using Star Schema in Power Pivot.
+- [x]	Skilled in integrating additional data into existing data models.
+- [x]	Experienced in using DAX to create calculated columns and measures.
+- [x]      Adept at creating advanced Excel reports and quick summaries using Pivot Tables.
+- [x]      Learned to build real-time business applications such as Project Priority Matrix and Scenario Planning Tools to improve business processes.
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## 💫Soft Skills:
+- [x]	Possess a refined understanding of Sales and Finance Reports. 
+- [x]	Capable of designing user-friendly and business-focused reports with empathy.
+- [x]	Experienced in optimizing and fine-tuning reports for better performance and efficiency.
+- [x]	Skilled in developing a structured and systematic approach to report building. 
+- [x]      Understand the importance of analytical thinking and problem-solving mindset.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
 
 ---
 
 # 👨‍💻 About Me
+
+I built these projects and applications as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based 
+
 
 I built these projects as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based analytics tools.
